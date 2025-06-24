@@ -15,8 +15,6 @@ This is a simple browser-based application that converts your speech into text i
 
 ## 📸 Screenshot
 
-> Replace this with your own screenshot after running the app.
-
 ![image](https://github.com/user-attachments/assets/b60edea6-072b-47d4-99e3-09da9ee5d51a)
 
 
